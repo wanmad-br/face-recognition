@@ -1,0 +1,7 @@
+target/
+.idea/
+*.iml
+cp.txt
+lena.jpg
+real-face.png
+sample-face.ppm
