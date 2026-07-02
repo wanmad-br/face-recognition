@@ -21,13 +21,15 @@ mvn -q -DskipTests compile
 ```bash
 mvn exec:java -Dexec.args='/path/to/image.jpg'
 
+For example, after creating a sample image file:
+
+```bash
+
 ## To Do
 
 1. Include face comparation
 ```
 
-For example, after creating a sample image file:
 
-```bash
 mvn exec:java -Dexec.args='sample-image.png'
 ```
