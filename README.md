@@ -20,6 +20,10 @@ mvn -q -DskipTests compile
 
 ```bash
 mvn exec:java -Dexec.args='/path/to/image.jpg'
+
+## To Do
+
+1. Include face comparation
 ```
 
 For example, after creating a sample image file:
