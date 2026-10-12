@@ -27,6 +27,7 @@ For example, after creating a sample image file:
 
 ## To Do
 
+Implement test face match
 1. Include face comparation
 ```
 
