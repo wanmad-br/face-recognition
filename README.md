@@ -10,6 +10,9 @@ This starter project demonstrates how to:
 - load an image from disk,
 - inspect it with DJL and print a small feature summary.
 
+## To Do
+Validate algorithms
+
 ## Build
 
 ```bash
