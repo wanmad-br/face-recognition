@@ -12,6 +12,7 @@ This starter project demonstrates how to:
 
 ## To Do
 Validate algorithms
+Implement
 
 ## Build
 
